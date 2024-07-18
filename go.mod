@@ -7,7 +7,7 @@ require (
 	github.com/Xhofe/go-cache v0.0.0-20220723083548-714439c8af9a
 	github.com/Xhofe/rateg v0.0.0-20230728072201-251a4e1adad4
 	github.com/alist-org/times v0.0.0-20240721124318-c2e3da27cc69
-	github.com/akang943578/gofakes3 v0.0.4
+	github.com/akang943578/gofakes3 v0.0.5
 	github.com/aliyun/aliyun-oss-go-sdk v3.0.2+incompatible
 	github.com/avast/retry-go v3.0.0+incompatible
 	github.com/aws/aws-sdk-go v1.54.19
@@ -234,5 +234,3 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	lukechampine.com/blake3 v1.1.7 // indirect
 )
-
-replace github.com/akang943578/gofakes3 => /home/ubuntu/IdeaProjects/alist-learn2/gofakes3
