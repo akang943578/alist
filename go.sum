@@ -19,10 +19,10 @@ github.com/abbot/go-http-auth v0.4.0 h1:QjmvZ5gSC7jm3Zg54DqWE/T5m1t2AfDu6QlXJT0E
 github.com/abbot/go-http-auth v0.4.0/go.mod h1:Cz6ARTIzApMJDzh5bRMSUou6UMSp0IEXg9km/ci7TJM=
 github.com/aead/ecdh v0.2.0 h1:pYop54xVaq/CEREFEcukHRZfTdjiWvYIsZDXXrBapQQ=
 github.com/aead/ecdh v0.2.0/go.mod h1:a9HHtXuSo8J1Js1MwLQx2mBhkXMT6YwUmVVEY4tTB8U=
-github.com/alist-org/times v0.0.0-20240721124318-c2e3da27cc69 h1:E9QJ4vVTu1KYRhelnCsQImCsbl7NlkH3Yxs3/L2ldDk=
-github.com/alist-org/times v0.0.0-20240721124318-c2e3da27cc69/go.mod h1:oPJwGY3sLmGgcJamGumz//0A35f4BwQRacyqLNcJTOU=
 github.com/akang943578/gofakes3 v0.0.5 h1:1kDMzRCzbQl9yUoW8ac7Iy6X2VniEraZqpjMJLEwN+k=
 github.com/akang943578/gofakes3 v0.0.5/go.mod h1:+r6bBDeChB3ngRiaiXyTaclektbk12WB7CwP56TCUs0=
+github.com/alist-org/times v0.0.0-20240721124318-c2e3da27cc69 h1:E9QJ4vVTu1KYRhelnCsQImCsbl7NlkH3Yxs3/L2ldDk=
+github.com/alist-org/times v0.0.0-20240721124318-c2e3da27cc69/go.mod h1:oPJwGY3sLmGgcJamGumz//0A35f4BwQRacyqLNcJTOU=
 github.com/aliyun/aliyun-oss-go-sdk v3.0.2+incompatible h1:8psS8a+wKfiLt1iVDX79F7Y6wUM49Lcha2FMXt4UM8g=
 github.com/aliyun/aliyun-oss-go-sdk v3.0.2+incompatible/go.mod h1:T/Aws4fEfogEE9v+HPhhw+CntffsBHJ8nXQCwKr0/g8=
 github.com/andreburgaud/crypt2go v1.2.0 h1:oly/ENAodeqTYpUafgd4r3v+VKLQnmOKUyfpj+TxHbE=
